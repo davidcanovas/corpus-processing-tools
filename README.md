@@ -15,3 +15,6 @@ This scripts removes lines which contain a forbidden word. In this script, the t
 
 ## frequence_counter.py
 This scripts lists the most frequent words in a file. In this script, it lists the 200 most common words, complete with the number of occurrences.
+
+## remove_duplicates.py
+This script removes duplicate lines from a file.
