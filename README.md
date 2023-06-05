@@ -8,7 +8,7 @@ This script merges multiple files into one.
 This script extracts a number of random lines from a text. In this script, the number is 200.
 
 ## split_file.py
-This script splits a file into smalle ones. In this script, each new file will contain 1000000 lines.
+This script splits a file into smaller ones. In this script, each new file will contain 1000000 lines.
 
 ## cleaner.py
 This scripts removes lines which contain a forbidden word. In this script, the taboo words are "sample" and "example". The script is case sensitive and considers periods as part of the word. Therefore, "sample." will not be flagged.
